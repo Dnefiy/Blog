@@ -1,0 +1,16 @@
+2023-03-28 16:22:09.220  INFO 10472 --- [restartedMain] com.blog.BlogApplication                 : Starting BlogApplication on Dnefiy with PID 10472 (D:\javaDemo(idea)\blog-master\blog\target\classes started by ASUS in D:\javaDemo(idea)\blog-master)
+2023-03-28 16:22:09.231 DEBUG 10472 --- [restartedMain] com.blog.BlogApplication                 : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2023-03-28 16:22:09.232  INFO 10472 --- [restartedMain] com.blog.BlogApplication                 : The following profiles are active: dev
+2023-03-28 16:22:09.295  INFO 10472 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-28 16:22:09.296  INFO 10472 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-28 16:22:10.651  INFO 10472 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-03-28 16:22:10.658  INFO 10472 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-28 16:22:10.659  INFO 10472 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2023-03-28 16:22:10.742  INFO 10472 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-28 16:22:10.743  INFO 10472 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1447 ms
+2023-03-28 16:22:11.345  INFO 10472 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-03-28 16:22:11.437  INFO 10472 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-03-28 16:22:11.857  INFO 10472 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-28 16:22:11.899  INFO 10472 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-28 16:22:11.902  INFO 10472 --- [restartedMain] com.blog.BlogApplication                 : Started BlogApplication in 3.11 seconds (JVM running for 5.164)
+2023-03-28 16:22:28.232  INFO 10472 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

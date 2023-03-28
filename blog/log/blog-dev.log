@@ -1,0 +1,14 @@
+2022-05-18 11:55:48.000  INFO 6452 --- [main] com.blog.BlogApplicationTests            : Starting BlogApplicationTests on Dnefiy with PID 6452 (started by ASUS in D:\javaDemo(idea)\blog-master\blog)
+2022-05-18 11:55:48.009 DEBUG 6452 --- [main] com.blog.BlogApplicationTests            : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2022-05-18 11:55:48.010  INFO 6452 --- [main] com.blog.BlogApplicationTests            : The following profiles are active: dev
+2022-05-18 11:55:50.334  INFO 6452 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-18 11:55:50.461  INFO 6452 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-05-18 11:55:51.067  INFO 6452 --- [main] com.blog.BlogApplicationTests            : Started BlogApplicationTests in 3.464 seconds (JVM running for 4.536)
+2022-05-18 11:55:51.621  INFO 6452 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-05-18 12:14:50.773  INFO 10932 --- [main] com.blog.BlogApplicationTests            : Starting BlogApplicationTests on Dnefiy with PID 10932 (started by ASUS in D:\javaDemo(idea)\blog-master\blog)
+2022-05-18 12:14:50.775 DEBUG 10932 --- [main] com.blog.BlogApplicationTests            : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2022-05-18 12:14:50.775  INFO 10932 --- [main] com.blog.BlogApplicationTests            : The following profiles are active: dev
+2022-05-18 12:14:54.465  INFO 10932 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-18 12:14:54.690  INFO 10932 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-05-18 12:14:55.544  INFO 10932 --- [main] com.blog.BlogApplicationTests            : Started BlogApplicationTests in 5.344 seconds (JVM running for 6.659)
+2022-05-18 12:14:56.131  INFO 10932 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
